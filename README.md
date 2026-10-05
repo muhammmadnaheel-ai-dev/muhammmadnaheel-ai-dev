@@ -6,9 +6,9 @@
 
 **AI Student · Full-Stack Developer · AI/ML Enthusiast**
 
-[![Profile views](https://komarev.com/ghpvc/?username=muhammadnaheel&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muhammadnaheel)
-[![GitHub followers](https://img.shields.io/github/followers/muhammadnaheel?label=Followers&style=flat&color=0e75b6)](https://github.com/muhammadnaheel?tab=followers)
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=flat&logo=github)](https://github.com/muhammadnaheel?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=muhammmadnaheel-ai-dev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muhammmadnaheel-ai-dev)
+[![GitHub followers](https://img.shields.io/github/followers/muhammmadnaheel-ai-dev?label=Followers&style=flat&color=0e75b6)](https://github.com/muhammmadnaheel-ai-dev?tab=followers)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=flat&logo=github)](https://github.com/muhammmadnaheel-ai-dev?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naheel-766926393)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadnaheel22@gmail.com)
 
@@ -168,7 +168,7 @@ Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast buil
 
 <br />
 
-[**View my live GitHub activity →**](https://github.com/muhammadnaheel#js-contribution-activity)
+[**View my live GitHub activity →**](https://github.com/muhammmadnaheel-ai-dev#js-contribution-activity)
 
 </div>
 
@@ -246,7 +246,7 @@ I'm interested in products that combine **full-stack engineering, intelligent ag
 
 <div align="center">
 
-[**Explore my live contribution activity ↓**](https://github.com/muhammadnaheel#js-contribution-activity)
+[**Explore my live contribution activity ↓**](https://github.com/muhammmadnaheel-ai-dev#js-contribution-activity)
 
 </div>
 
@@ -256,7 +256,7 @@ I'm interested in products that combine **full-stack engineering, intelligent ag
 
 <div align="center">
 
-[![Muhammad Naheel's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadnaheel&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Naheel%27s%20Contribution%20Graph)](https://github.com/muhammadnaheel#js-contribution-activity)
+[![Muhammad Naheel's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammmadnaheel-ai-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Naheel%27s%20Contribution%20Graph)](https://github.com/muhammmadnaheel-ai-dev#js-contribution-activity)
 
 <sub>Updated automatically from my public GitHub activity.</sub>
 
@@ -269,36 +269,36 @@ I'm interested in products that combine **full-stack engineering, intelligent ag
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammadnaheel/Fluxora-ai">⚡ Fluxora AI</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/Fluxora-ai">⚡ Fluxora AI</a></h3>
       <p>Fast, intelligent, real-time streaming AI chat powered by Groq.</p>
       <p><code>JavaScript</code> <code>Groq</code> <code>Streaming AI</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammadnaheel/Nexora-AI">🧠 Nexora AI</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/Nexora-AI">🧠 Nexora AI</a></h3>
       <p>Production-ready multi-agent platform with orchestration, persistent conversations, and document-aware assistance.</p>
       <p><code>JavaScript</code> <code>Multi-Agent</code> <code>React</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammadnaheel/Devpilot-AI">🧑‍💻 Devpilot AI</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/Devpilot-AI">🧑‍💻 Devpilot AI</a></h3>
       <p>AI developer assistant built with React 19, Gemini AI, Firebase Authentication, and Firestore.</p>
       <p><code>React 19</code> <code>Gemini</code> <code>Firebase</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammadnaheel/DataLens-AI">📊 DataLens AI</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/DataLens-AI">📊 DataLens AI</a></h3>
       <p>AI-powered SQL assistant for natural-language database queries and instant insights.</p>
       <p><code>TypeScript</code> <code>SQL</code> <code>AI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammadnaheel/Skyintel-ai">🌦️ Skyintel AI</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/Skyintel-ai">🌦️ Skyintel AI</a></h3>
       <p>Weather assistant for Pakistan with real-time insights, forecasts, alerts, and location-aware information.</p>
       <p><code>JavaScript</code> <code>Weather API</code> <code>AI Assistant</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammadnaheel/neuraflow-react-ai">✨ NeuraFlow</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/neuraflow-react-ai">✨ NeuraFlow</a></h3>
       <p>React AI SaaS application designed to accelerate AI-assisted application development.</p>
       <p><code>React</code> <code>CSS</code> <code>SaaS</code></p>
     </td>
@@ -307,7 +307,7 @@ I'm interested in products that combine **full-stack engineering, intelligent ag
 
 <div align="center">
 
-[**Explore all repositories →**](https://github.com/muhammadnaheel?tab=repositories)
+[**Explore all repositories →**](https://github.com/muhammmadnaheel-ai-dev?tab=repositories)
 
 </div>
 
