@@ -298,7 +298,7 @@ I'm interested in products that combine **full-stack engineering, intelligent ag
       <p><code>JavaScript</code> <code>Weather API</code> <code>AI Assistant</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/hypersion-gen">🧬 hypersion-gen</a></h3>
+      <h3><a href="https://github.com/muhammmadnaheel-ai-dev/hypersion-gen">🧬 Hypersion-Gen</a></h3>
       <p>Synthetic data workspace for schema analysis, deterministic generation, validation, preview, and export.</p>
       <p><code>Python</code> <code>Synthetic Data</code> <code>Validation</code></p>
     </td>
